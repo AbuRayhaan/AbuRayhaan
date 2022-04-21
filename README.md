@@ -3,7 +3,20 @@
   <h1> Hi there 👋 I'm Hammed ✨</h1>
 </div> 
 
-I'm a passionate Full Stack Developer.
+✨ I'm a passionate Software Developer from Nigeria, Africa.
+
+🎓 I graduated from the University of Port Harcourt with a degree in 🏗 B.Sc. Computer Science.
+
+⚡ I started my coding journey in November 2021. Currently, I am studying as a remote student
+at Microverse.
+
+👨‍💻 I spend most of my time learning to code by watching tutorials and reading materials about HTML, CSS,
+and JavaScript. 
+
+💻 My most used line of code is git commit -m "Initial project setup"😄
+
+👯 I'm a team player, effective collaborator and willing to contribute to open source projects, 
+collaborate and help other students in Microverse.
 
 <!--
 **AbuRayhaan/AbuRayhaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

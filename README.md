@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hammed https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif
+### Hi there 👋 I'm Hammed 
 _________________________________________
 I'm a passionate Full Stack Developer.
 

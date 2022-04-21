@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="150"/>
   <h1> Hi there 👋 I'm Hammed ✨</h1>
 </div> 
-_________________________________________
+
 I'm a passionate Full Stack Developer.
 
 <!--

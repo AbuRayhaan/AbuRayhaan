@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="150"/>
-  <h1> Hi there 👋 I'm Hammed ✨</h1>
+  <h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Hammed ✨</h1>
+</div> 
+
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hammed-adisa-mct-ccsp-ctp-b4378372/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -9,7 +12,8 @@
   </a>
   <a href ="https://twitter.com/Ayinla2011">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a>  
+ <!-- <img src="https://komarev.com/ghpvc/?username=aburayhaan&style=flat-square&color=blue" alt=""/> -->
 </div> 
 
 ✨ I'm a passionate Software Developer from Nigeria, Africa.
